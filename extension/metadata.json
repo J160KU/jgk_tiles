@@ -1,0 +1,7 @@
+{
+  "uuid": "jgk-tiles@local",
+  "name": "jgk_tiles bridge",
+  "description": "Meta resize backend for jgk_tiles C daemon",
+  "shell-version": ["45", "46", "47", "48", "49", "50"],
+  "version": 3
+}

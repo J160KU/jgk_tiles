@@ -1,0 +1,10 @@
+# Build artifacts
+jgk_tiles
+*.o
+generated/
+test_or
+
+# Local / machine-specific
+PLAN.md
+*.log
+.cache/

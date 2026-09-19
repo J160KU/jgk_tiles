@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=jgk_tiles
+Comment=16x8 overlay window tiler (Ctrl+Esc)
+Exec=jgk_tiles
+Terminal=false
+Hidden=false
+X-GNOME-Autostart-enabled=true
+X-GNOME-Autostart-Delay=2
